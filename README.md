@@ -171,4 +171,4 @@ Le dataset MTSamples est deja present dans `data/mtsamples/mtsamples.csv`. Les d
 
 ---
 
-Annee universitaire 2025–2026 — EMSI Mouley Youssef, Casablanca
+Annee universitaire 2025–2026 — EMSI Moulay Youssef, Casablanca
