@@ -1,7 +1,7 @@
 # Projet Deep Learning — EMSI Casablanca 2025–2026
 
 **Module** : Deep Learning | **Filiere** : Informatique | **Auteur** : Adam GHZAOUNI  
-**Etablissement** : EMSI Mouley Youssef, Casablanca
+**Etablissement** : EMSI Moulay Youssef, Casablanca
 
 ---
 
