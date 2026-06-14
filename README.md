@@ -1,6 +1,6 @@
 # Projet Deep Learning — EMSI Casablanca 2025–2026
 
-**Module** : Deep Learning | **Filiere** : Informatique | **Auteur** : Walid Faddol 
+**Module** : Deep Learning | **Filiere** : IA/DATA | **Auteur** : Walid Faddol 
 **Etablissement** : EMSI Moulay Youssef, Casablanca
 
 ---
